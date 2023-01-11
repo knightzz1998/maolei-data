@@ -1,6 +1,6 @@
 # Drugs 药物处理
 
-https://img.shields.io/badge/drugs-aspect-red https://img.shields.io/badge/dataset-pandas-orange
+![](https://img.shields.io/badge/dataset-drugs-red) ![](https://img.shields.io/badge/dataset-druglib-red) ![](https://img.shields.io/badge/pylib-pandas-yellow) ![](https://img.shields.io/badge/pylib-numpy-green) ![](https://img.shields.io/badge/methods-方面级情感分析-blue)
 
 ----
 
