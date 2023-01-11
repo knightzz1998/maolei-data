@@ -25,8 +25,8 @@ target 处理好的文件目录
 
 暂不处理
 
-## Dataaset
+## Dataset
 
-- Drugs.com https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29#
+- [Drugs.com](https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29#)
 
-- Druglib.com https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Druglib.com%29
+- [Druglib.com](https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Druglib.com%29)
