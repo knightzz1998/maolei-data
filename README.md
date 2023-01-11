@@ -23,6 +23,8 @@ target 处理好的文件目录
 
 ### Drugslib数据处理
 
+暂不处理
+
 ## Dataaset
 
 - Drugs.com https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29#
