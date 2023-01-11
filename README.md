@@ -7,10 +7,14 @@ pip install numpy
 
 ## 项目使用
 
-main.py 下的 func方法
+### Drugs数据处理
+
+drugs.py 下的 func方法
 
 source 是未处理的文件目录
 target 处理好的文件目录
+
+### Drugslib数据处理
 
 ## Dataaset
 
